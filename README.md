@@ -12,9 +12,10 @@
 - Testes de conexão da API sendo feitas com a ferramenta PostMan.
 
 #### Para executar esse exercício, após o clone fazer:
+- no Mysql criar a database agendapetshop na porta 3307
 - npm install
 - npm start (para subir o servidor)
--
+
 
 
 
