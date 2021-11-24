@@ -13,7 +13,7 @@
 
 #### Para executar esse exercício, após o clone fazer:
 - no Mysql criar a database agendapetshop na porta 3307
-- no arquivo conexao.js informar os dados referente sua intalação do mysql
+- no arquivo conexao.js informar os dados referente sua instalação do MySql
 - executar npm install
 - executar npm start (para subir o servidor)
 
