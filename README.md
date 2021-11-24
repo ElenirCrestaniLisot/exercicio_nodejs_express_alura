@@ -6,15 +6,16 @@
 
 #### Procedimentos que realiza:
 - Criação da tabela atendimentos
-- CRUD na tabela atendimentos através de API
+- CRUD na tabela atendimentos através de API usando arquivos no formato JSON
 - São realizadas críticas ao preenchimento dos campos.
-- Servidor roda na porta localhost/3307
+- Servidor roda na porta http://localhost:3000
 - Testes de conexão da API sendo feitas com a ferramenta PostMan.
 
 #### Para executar esse exercício, após o clone fazer:
 - no Mysql criar a database agendapetshop na porta 3307
-- npm install
-- npm start (para subir o servidor)
+- no arquivo conexao.js informar os dados referente sua intalação do mysql
+- executar npm install
+- executar npm start (para subir o servidor)
 
 
 
